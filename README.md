@@ -1,2 +1,2 @@
 # Ecommerce
-Hi ereryone
+Hi everyone
