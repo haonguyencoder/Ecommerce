@@ -246,7 +246,7 @@ input {
     left: 45%;
     width: 5px;
     height: 5px;
-    background: var(--title-color);
+    background: #F34444;
     border-radius: 50%;
 }
 
